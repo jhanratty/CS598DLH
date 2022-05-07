@@ -1,0 +1,4 @@
+# ignore uncompressed datasets
+*.csv
+# ignore jupyter notebook checkpoints
+*-checkpoint.ipynb
