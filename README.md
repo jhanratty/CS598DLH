@@ -10,9 +10,10 @@ If you have any problems, contact johnh7@illinois.edu.
 - README.md  - this files
 - TestCoxNeural_3.ipynb - Notebook with the final project code (start notebook and run_all)
 - data.zip - contains SEER raw data (unzip creates data/seer_processed.csv used by notebook)
+- requirements.txt - list of python packages needed to run the notebook
 
 ## Notebook Installation and Execution
-Download the TestCoxNeural_3.ipynb notebook and data.zip to your target directory.  Unzip data.zip that creates the data directory with the dataset file (./data/seer_processed.csv).  The notebook will look for the SEER data in this location. 
+Download the TestCoxNeural_3.ipynb notebook, requirements.txt and data.zip to your target directory.  Unzip data.zip that creates the data directory with the dataset file (./data/seer_processed.csv).  The notebook will look for the SEER data in this location. 
 
 The notebook is self-contained and run_all preforms the following:
 - Load and preprocesses the datasets (SEER, Metabric, SUPPORT)
