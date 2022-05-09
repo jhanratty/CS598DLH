@@ -1,0 +1,13 @@
+easydict
+matplotlib
+numba==0.53
+numpy<=1.21
+pandas
+pycox==0.2.3
+scikit-survival
+sklearn
+sklearn-pandas==2.2.0
+torch
+torchtuples==0.2.2
+torchvision
+tqdm
